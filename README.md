@@ -6,7 +6,7 @@
 You can report issues with the mod using the Issues page.
 
 **If you have any other mods installed, please list them.**
-**Please also confirm the version of Factorio and the version of the mod you are using.**
+**Please also confirm the version of Factorio and the version of IR you are using.**
 
 ## Issues I want to know about
 
