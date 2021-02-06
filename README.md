@@ -21,4 +21,4 @@ You can report issues with the mod using the [Issues page](https://github.com/De
 * Conflicts with other unsupported mods
 * Opinions about balance
 * Opinions about software licenses
-* Vague feelings
+* Vague feelings of creeping dread or cosmic unease
