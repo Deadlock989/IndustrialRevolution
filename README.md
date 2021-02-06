@@ -5,16 +5,16 @@ Industrial Revolution 2 is an overhaul mod for Factorio. https://mods.factorio.c
 
 You can report issues with the mod using the Issues page.
 
-* If you have any other mods installed, please list them.
-* If you don't say which version of the mod you are using, I will assume it is the most recent published version.
+**If you have any other mods installed, please list them.**
+**Please also confirm the version of Factorio and the version of the mod you are using.**
 
-## Good issues
+## Issues I want to know about
 
 * Script errors
 * Broken or missing features
 * Graphics issues
 
-## Less good issues
+## Issues I probably don't want to know about
 
 * Compatability issues with other unsupported mods
 * Opinions about balance
