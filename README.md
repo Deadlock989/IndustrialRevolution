@@ -1,7 +1,7 @@
 [logo]: https://i.ibb.co/vJfwd78/IR-logo.png
 ![logo][]
 
-Industrial Revolution 2 is an overhaul mod for Factorio. https://mods.factorio.com/mod/IndustrialRevolution
+[Industrial Revolution 2](https://mods.factorio.com/mod/IndustrialRevolution) is an overhaul mod for Factorio. 
 
 You can report issues with the mod using the Issues page.
 
@@ -12,10 +12,12 @@ You can report issues with the mod using the Issues page.
 
 * Script errors
 * Broken or missing features
-* Graphics issues
+* Graphics or GUI issues
+* Conflicts or problems with mods on the [supported mods list](https://mods.factorio.com/mod/IndustrialRevolution/faq)
 
 ## Issues I probably don't want to know about
 
-* Compatability issues with other unsupported mods
+* Conflicts with other unsupported mods
 * Opinions about balance
+* Opinions about software licenses
 * Vague feelings
