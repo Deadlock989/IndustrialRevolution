@@ -3,7 +3,7 @@
 
 [Industrial Revolution 2](https://mods.factorio.com/mod/IndustrialRevolution) is an overhaul mod for Factorio. 
 
-You can report issues with the mod using the Issues page.
+You can report issues with the mod using the [Issues page](https://github.com/Deadlock989/IndustrialRevolution/issues) above.
 
 **If you have any other mods installed, please list them.**
 
