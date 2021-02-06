@@ -1,4 +1,3 @@
-# IndustrialRevolution
 [logo]: https://i.ibb.co/vJfwd78/IR-logo.png
 ![logo][]
 
