@@ -1,4 +1,7 @@
 # IndustrialRevolution
+[logo]: https://i.ibb.co/vJfwd78/IR-logo.png
+![logo][]
+
 Industrial Revolution 2 is a mod for Factorio. https://mods.factorio.com/mod/IndustrialRevolution
 
 You can report issues with the mod using the Issues page.
