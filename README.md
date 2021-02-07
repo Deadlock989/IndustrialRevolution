@@ -18,7 +18,7 @@ You can report issues with the mod using the [Issues page](https://github.com/De
 
 ## Issues I probably don't want to know about
 
-* Conflicts with other unsupported mods
+* Conflicts or problems due to unsupported mods
 * Opinions about balance
 * Opinions about software licenses
 * Vague feelings of creeping dread or cosmic unease
