@@ -1,4 +1,4 @@
-[logo]: https://i.ibb.co/ynpHjPK/IR-logo.png
+[logo]: https://i.ibb.co/hypLzpp/decorative-logo.png
 ![logo][]
 
 [Industrial Revolution 2](https://mods.factorio.com/mod/IndustrialRevolution) is an overhaul mod for Factorio. 
