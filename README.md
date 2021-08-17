@@ -12,7 +12,7 @@ Report suspected bugs using the [Issues page](https://github.com/Deadlock989/Ind
 
 ### Examples of bugs
 
-* Script errors
+* Control script errors during the game
 * Broken or missing features
 * Graphics or GUI issues
 * Conflicts or problems with mods on the [supported mods list](https://mods.factorio.com/mod/IndustrialRevolution/faq)
