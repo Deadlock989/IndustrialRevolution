@@ -8,16 +8,10 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of the suspected bug or issue.
+A clear and concise description of the suspected bug or issue. You can add screenshots if you like.
 
 **To Reproduce**
-Steps to reproduce the behavior.
+Steps to reproduce the behavior. You can attached a saved game zipfile if you like.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Additional context**
-Add any other context about the problem here.
+**List other mods installed**
+If you have any other non-trivial mods installed, please list them here.
