@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of the suspected bug or issue. You can add screenshots if you like. If it is a script error, please give a list of steps required to reproduce the error.
+Please give a clear and concise description of the suspected bug or issue: what actually happened and what you expected to happen instead. You can add screenshots if you like. If it is a script error, please include or screenshot the error and also give a list of steps required to reproduce it.
 
-**Factorio version and OS/platform**
-Please state the Factorio version number you are running and the OS it is running on.
+**Factorio version and IR2 version**
+Please confirm your Factorio version number and the Industrial Revolution version number.
 
 **List other mods installed**
-If you are running other "content" mods, please list them here and give their version numbers.
+Optionally you can list other mods installed and their version numbers here if relevant.
