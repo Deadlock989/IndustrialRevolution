@@ -15,4 +15,3 @@ Please confirm your Factorio version number and the Industrial Revolution versio
 
 **Other mods installed**
 If you are running other mods which change game content (entities, recipes etc.) list them here. No need if they are small QOL mods.
-
