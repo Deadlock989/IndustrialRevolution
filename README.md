@@ -1,4 +1,4 @@
-![IR-logo](https://user-images.githubusercontent.com/3128845/199250656-16a68a93-b55c-493d-a868-ae95fff2bd17.png)
+![ir3-logo-short](https://user-images.githubusercontent.com/3128845/210171101-4f1f02ec-2360-42d2-9fd9-51aa6afefade.png)
 
 [Industrial Revolution 3](https://mods.factorio.com/mod/IndustrialRevolution3) is an overhaul mod for Factorio 1.1.
 
