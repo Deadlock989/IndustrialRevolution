@@ -1,6 +1,6 @@
 ---
-name: Bug/issue report
-about: Create a new bug report
+name: Issue or bug report
+about: Please use this template to report issues, giving all of the details requested.
 title: ''
 labels: ''
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-Please give a clear and concise description of the suspected bug or issue: what is actually happening, what you expect should happen instead, and (if applicable) some steps for reproducing the problem. You can add screenshots if you like. If it is a script error, please include or screenshot the error.
+Please give a concise description of the suspected bug or issue: what is actually happening; what you expect should happen instead; steps to reproduce the problem. You can add screenshots if you like. If there is a script error, please copy or screenshot the error message.
 
 **Factorio version, IR version**
 Please confirm your Factorio version number and the Industrial Revolution version number.
