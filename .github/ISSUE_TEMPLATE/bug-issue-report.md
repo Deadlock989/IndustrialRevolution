@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-Please give a concise description of the suspected bug or issue: what is actually happening; what you expect should happen instead; steps to reproduce the problem. You can add screenshots if you like. If there is a script error, please copy or screenshot the error message.
+**Describe the issue**
+Please give a concise description of the suspected issue: what is actually happening; what you expected to happen instead; detailed steps to reproduce the problem. You can add screenshots if you like. If there is a script error, please copy or screenshot the error message.
 
 **Factorio version, IR version**
 Please confirm your Factorio version number and the Industrial Revolution version number.
